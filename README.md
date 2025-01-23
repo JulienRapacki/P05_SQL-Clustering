@@ -5,5 +5,5 @@ Ce projet est composé de 3 partie :
 - une analyse exploratoire avec Python
 - un modèle de machine learning permettant la classification automatique des clients à l'aide de leur historique d'achat
 
-Pour plus de détails sur ce projet se référence à la [présentation]/(Rapacki_Julien_5_presentation_042024.pdf)
+Pour plus de détails sur ce projet se référence à la [présentation]\(Rapacki_Julien_5_presentation_042024.pdf)
   
